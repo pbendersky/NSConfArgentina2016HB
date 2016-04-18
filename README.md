@@ -11,3 +11,5 @@ That file contains:
 * Gender
 * Height
 * Weight
+
+I took the stage around 9:40 (GMT -3).
